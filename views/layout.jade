@@ -1,0 +1,32 @@
+doctype html
+html
+    head
+        title= title
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/components/bootstrap/dist/css/bootstrap.min.css')
+        link(rel='stylesheet', href='/componets/bootstrap/dist/css/bootstrap-theme.min.css')
+    body
+        header
+            div.navbar.navbar-default.navbar-fixed-top
+                div.container
+                    div.navbar-header
+                        a.navbar-brand(href='/') 大谷さん
+                        button.navbar-toggle(type='button', data-toggle='collapse', data-target='#navbar-main')
+                            span.icon-bar
+                            span.icon-bar
+                            span.icon-bar
+                
+                    div.navbar-collapse.collapse#navbar-main
+                        ul.nav.navbar-nav
+                            li: a(href='/about') 大谷さんについて
+                            li: a(href='/dora') ドラえもんのような
+
+        block content
+        
+        div.footer
+            p Copyright (c)2015 大谷号/大谷さん運営事務局 All Rights Reserved.
+        
+        script(src='/components/jquery/dist/jquery.min.js')
+        script(src='/components/bootstrap/dist/js/bootstrap.min.js')
+        script(src='/components/bootstrap/dist/js/npm.min.js')
+   
