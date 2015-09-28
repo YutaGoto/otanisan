@@ -1,0 +1,19 @@
+{
+  "name": "otanisan",
+  "version": "1.0.0",
+  "description": "Otanisan Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutagoto/otanisan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutagoto/otanisan/issues"
+  },
+  "homepage": "https://github.com/yutagoto/otanisan"
+}
