@@ -4,7 +4,9 @@ html
         title= title
         link(rel='stylesheet', href='/stylesheets/style.css')
         link(rel='stylesheet', href='/components/bootstrap/dist/css/bootstrap.min.css')
-        link(rel='stylesheet', href='/componets/bootstrap/dist/css/bootstrap-theme.min.css')
+        link(rel='stylesheet', href='/components/bootstrap/dist/css/bootstrap-theme.min.css')
+        link(rel="stylesheet", href="/components/slick-carousel/slick/slick-theme.css")
+        link(rel="stylesheet", href="/components/slick-carousel/slick/slick.css")
     body
         header
             div.navbar.navbar-default.navbar-fixed-top
@@ -28,5 +30,9 @@ html
         
         script(src='/components/jquery/dist/jquery.min.js')
         script(src='/components/bootstrap/dist/js/bootstrap.min.js')
-        script(src='/components/bootstrap/dist/js/npm.min.js')
-   
+        script(src='/components/bootstrap/dist/js/npm.js')
+        script(src="/components/slick-carousel/slick/slick.js")
+        script(type='text/javascript').
+            $("document").ready(function(){
+                $('.single-item').slick();
+            }); 
