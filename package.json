@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/yutagoto/otanisan/issues"
   },
-  "homepage": "https://github.com/yutagoto/otanisan"
+  "homepage": "https://github.com/yutagoto/otanisan",
+  "dependencies": {}
 }

@@ -58,3 +58,10 @@ cmdの画面でプロジェクトディレクトリまで移動する。
 
 を入力してサーバーを立ち上げる
 てきとうにぶらうざを立ち上げて [http://localhost:3000](http://localhost:3000) にアクセスする。
+
+### Acknowledgement
+
+* Charactor: Otani-san [Twitter](https://twitter.com/ota_25)
+* Coder: Yuta Goto (Goche) [Twiter](https://twitter.com/gggooottto)
+---
+* Bootstrap: [Konoha](http://honokak.osaka/)
