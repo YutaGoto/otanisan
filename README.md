@@ -1,7 +1,7 @@
 # otanisan
 これは大谷さんのwebサイトを作るためのリポジトリです。
 
-##　Set up
+## Set up
 ### nodeのインストール（windows）
 
 [nodejs.org]( https://nodejs.org/en/ )にアクセスして、ダウンロードしてインストールしましょう。インストール先はデフォルトのままでおｋ！

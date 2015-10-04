@@ -7,15 +7,6 @@ a {
   color: #00B7FF;
 }
 
-.boxContainer {
-	display: flex;
-	display: -moz-flex;
-	display: -o-flex;
-	display: -webkit-flex;
-	display: -ms-flex;
-	flex-direction: row;
-	-moz-flex-direction: row;
-	-o-flex-direction: row;
-	-webkit-flex-direction: row;
-	-ms-flex-direction: row;
+.footer {
+	text-align: center;
 }
