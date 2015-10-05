@@ -31,6 +31,8 @@ nodeが使えることを確認したら、npmコマンドも使えるはずな�
 
 と入力して1.5.3とか3つの数字が表示されればおｋ
 
+* 現状Databaseは存在しないので、ここまでで問題ないですね。
+
 ### Git
 gitのコマンドはもうしわけないけど割愛。[さる](http://www.backlog.jp/git-guide/)を見ながら自習でよろ。
 
@@ -63,5 +65,8 @@ cmdの画面でプロジェクトディレクトリまで移動する。
 
 * Charactor: Otani-san [Twitter](https://twitter.com/ota_25)
 * Coder: Yuta Goto (Goche) [Twiter](https://twitter.com/gggooottto)
----
+
+***
+
 * Bootstrap: [Konoha](http://honokak.osaka/)
+* Photographer: Otani-san [Twitter](https://twitter.com/ota_25)
