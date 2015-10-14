@@ -66,7 +66,5 @@ cmdの画面でプロジェクトディレクトリまで移動する。
 * Charactor: Otani-san [Twitter](https://twitter.com/ota_25)
 * Coder: Yuta Goto (Goche) [Twiter](https://twitter.com/gggooottto)
 
-***
-
-* Bootstrap: [Konoha](http://honokak.osaka/)
+* Bootstrap: [Honoha](http://honokak.osaka/)
 * Photographer: Otani-san [Twitter](https://twitter.com/ota_25)
