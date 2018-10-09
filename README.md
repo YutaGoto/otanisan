@@ -1,4 +1,7 @@
 # otanisan
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/YutaGoto/otanisan.svg)](https://greenkeeper.io/)
+
 これは大谷さんのwebサイトを作るためのリポジトリです。
 
 ## Set up
